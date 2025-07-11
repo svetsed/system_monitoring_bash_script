@@ -67,6 +67,12 @@ sudo chmod +x /путь до файла/monitoring_system/monitoring_system_scri
   sudo crontab -r
   ```
 
+## Открыть лог-файл
+```
+sudo nano /var/log/monitoring/system_monitoring_*.log
+```
+где звездочка, это дата записи лога в формате YYYYMMDD, например, 20250711
+
 ## Пример лог-файла
 ```
 ======== Wed Jan 15 12:00:01 MSK 2025 ========
