@@ -34,14 +34,14 @@
 
 ## Запуск
 * Перейдите в папку со скриптом и запустите c правами root
-```
-cd /путь до файла/monitoring_system
-sudo ./monitoring_system_script.sh
-```
+  ```
+  cd /путь до файла/monitoring_system
+  sudo ./monitoring_system_script.sh
+  ```
 * При необходимости, дайте права на запуск
-```
-sudo chmod +x /путь до файла/monitoring_system/monitoring_system_script.sh
-```
+  ```
+  sudo chmod +x /путь до файла/monitoring_system/monitoring_system_script.sh
+  ```
 
 
 ## Автоматический запуск
